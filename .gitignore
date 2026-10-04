@@ -18,3 +18,9 @@ __pycache__/
 # VS Code local settings
 .vscode/
 .venv/
+
+# AWS WORK
+aws-terraform/
+
+# OTHER FILES
+python-c8000v-aws-multitx-queues/
