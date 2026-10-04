@@ -1,0 +1,9 @@
+#ACCESS-LIST 16: USED FOR snmp-server group ITAM
+
+access-list 16 remark ITAM Asset Management Server
+access-list 16 permit 198.97.73.237
+access-list 16 permit 131.78.6.196
+access-list 16 permit 192.67.252.237
+access-list 16 permit 131.87.15.2
+access-list 16 permit 131.74.111.80
+access-list 16 deny   any log

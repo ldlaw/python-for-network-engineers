@@ -1,0 +1,16 @@
+
+
+network-baseline/
+├── baseline.py
+│
+├── configs/
+│   └── common/
+│       ├── banner.txt
+│       ├── service.txt
+│       ├── clock.txt
+│       ├── snmp.txt
+│       └── acl.txt
+│
+└── logs/
+
+

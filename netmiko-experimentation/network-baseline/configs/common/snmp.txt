@@ -1,0 +1,5 @@
+snmp-server view ITAMS_VIEW mib-2 included
+snmp-server view ITAMS_VIEW system included
+snmp-server view ITAMS_VIEW interfaces included
+snmp-server view ITAMS_VIEW entityMIB included
+snmp-server view ITAMS_VIEW mib-2.25.2.1 included
